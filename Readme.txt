@@ -1,6 +1,6 @@
-Author: Yogesh singh
+Author: jansariweb
 Author URL: https://makitweb.com/
-Author Email: makitweb@gmail.com
+Author Email: jansariweb@gmail.com
 Tutorial Link: https://makitweb.com/create-simple-login-page-with-php-and-mysql/
 
 Instructions -
